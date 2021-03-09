@@ -11,10 +11,11 @@ This week, we are returning to Python. Specifically, our focus will be on an add
 
 ## Getting Started™
 
-1. In Canvas (canvas.pitt.edu), click on this class, CMPINF0010
-2. Go to Modules
-5. Click `Skills Lab Week 8` and click where is says `Click Here!`
-6. JupyterHub should open up to this week's materials!
+1. Open Jupyter Lab and start a terminal
+2. Navigate to the folder you wish to download this lab to
+3. Type in `git clone https://github.com/pitt-sci-cmpinf0010/lab-7.git` and hit the enter key
+4. This should download a folder to your local machine with the lab (it should be called lab-7)
+5. Launch the desired notebook
 
 ### If JupyterLab _really_ doesn't work for you
 
@@ -23,7 +24,7 @@ Use Binder:
 _**Important**:_ Binder does **not** always save your work. If you need to stop working on your lab for more than 30 minutes, you need to **download** your exercises notebook to your computer. Then, you can reupload it again later to continue your work.
 
 Click this button to get started with Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/week-8/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/lab-7/master?urlpath=lab)
 
 ---
 
