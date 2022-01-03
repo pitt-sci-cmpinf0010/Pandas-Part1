@@ -4,7 +4,7 @@ If you have questions about this week's lab ANY TA for this class can help you w
 
 ## pandas :panda_face:
 
-This week, we are returning to Python. Specifically, our focus will be on an add-on for Python called Pandas. This might get confusing, so here's a link to a cheatsheet to refer back to whenever you're confused. Trust me, it'll be useful.
+This week, we are returning to Python. Specifically, our focus will be on an add-on for Python called pandas. This might get confusing, so here's a link to a cheatsheet to refer back to whenever you're confused. Trust me, it'll be useful.
 * [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 ## Getting Started Again™
